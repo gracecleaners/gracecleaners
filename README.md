@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web 3.0**
 
-- 👨‍💻 All of my projects are available at [https://gracecleaners.github.io/oscarlincoln/](https://gracecleaners.github.io/oscarlincoln/)
+- 👨‍💻 Checkout my website [https://gracecleaners.github.io/oscarlincoln/](https://gracecleaners.github.io/oscarlincoln/)
 
 - 💬 Ask me about **flutter, django, Wordpress**
 
